@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    position: absolute;
+    width: 200px;
+    height: 120px;
+    border: solid;
+    border-radius: 10px;
+    border-color: #3e5d7f;
+background-color: #ccdbed;
+}
+.date{
+    float: right;
+}
+.title{
+    float: left;
+    position: relative;
+    top: 20px
+}
+.description{
+    float: left;
+    position: relative;
+    top: 25px
+    
+}
